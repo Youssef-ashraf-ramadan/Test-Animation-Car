@@ -289,6 +289,7 @@
    left: 1400px;
    animation-name: move2;
    animation-duration: 5s;
+  animation-iteration-count: infinite;
 }
 
 @keyframes move2 {
@@ -310,6 +311,7 @@
    left: 700px;
    animation-name: move3;
    animation-duration: 5s;
+  animation-iteration-count: infinite;
 
 }
 
